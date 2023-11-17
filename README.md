@@ -8,11 +8,11 @@ Intelligent Graph Coloring: Seamlessly assigns courses to distinct time slots, p
 User-Friendly Interface: Designed with simplicity and practicality in mind, allowing easy customization of the scheduling process.
 Adherence to Constraints: Enforces constraints such as preventing consecutive classes of the same subject and limiting the number of classes per day.
 Room Assignment Optimization: Efficiently assigns available rooms to courses, enhancing overall resource utilization.
-How to Use:
+# How to Use:
 
 Input File: Provide a structured file with essential information about courses, their nomenclature, and shared students.
 Customization: Tailor the scheduling process by specifying the number and names of available rooms.
-Run the Generator: Let the algorithm work its magic, creating visually intuitive and human-readable timetables.
+Run the Generator: Run the checking.cpp file and let the algorithm work its magic, creating visually intuitive and human-readable timetables.
 
 # Input File format
 4
